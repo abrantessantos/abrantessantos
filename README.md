@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Sempre+aprendendo+algo+novo+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub!;Agente+Transformação+Digital;Sempre+aprendendo+algo+novo+🚀" />
 </p>
